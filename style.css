@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+
+body {
+    background-color: black;
+}
+.content {
+    font-family: "Poppins", sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#Links {
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+
+a {
+    color: inherit; /* blue colors for links too */
+    text-decoration: inherit; /* no underline */
+  }
+
+  li {
+    list-style-type: none;
+}
